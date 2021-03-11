@@ -1,0 +1,4 @@
+ToolSet: 3.1.7 (local)@C:\Users\hw1003685\Videos
+Options: 
+
+Options:-DCMAKE_MAKE_PROGRAM=/usr/bin/make.exe
